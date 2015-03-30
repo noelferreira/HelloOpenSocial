@@ -5,7 +5,9 @@
     </ModulePrefs>
     <Content type="html">
         <![CDATA[
-            Hello, Open Social!
+            <h1>Hello, Open Social!</h1>
+
+            <iframe src="http://www.w3schools.com/"</iframe>
         ]]>
     </Content>
 </Module>
