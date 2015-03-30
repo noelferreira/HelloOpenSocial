@@ -7,12 +7,14 @@
         <![CDATA[
 
             <script type="text/javascript src="hello.js"></script>
-
-            <h1>Hello, Open Social!</h1>
-
-            <img src="https://www.yahoo.com/sy/nn/fp/rsz/033015/images/smush/oreilly_635x250_1427750515.jpg">
-
-            <div id="helloDiv"></div>
+            
+            <div id="app">
+                <div id="header"><h1>Hello, Open Social!</h1></div>
+                <div id="body">
+                    <img src="https://www.yahoo.com/sy/nn/fp/rsz/033015/images/smush/oreilly_635x250_1427750515.jpg">
+                </div>
+                <div id="footer"></div>
+            </div>
         ]]>
     </Content>
 </Module>
