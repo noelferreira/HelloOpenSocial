@@ -2,7 +2,8 @@ function renderInfo(){
     var state = wave.getState();
     var html = "";
     html += '<div style="width: 50px; height:50px; margin-left: 10px; margin-top: 10px; background-color: red;">';
-    document.getElementById('body').innerHTML = html;
+    document.getElementById('footer').innerHTML = html;
+    alert('Running');
 }
 
 function init() {
