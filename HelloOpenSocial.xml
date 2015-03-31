@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <!-- Hello Open Social -->
 <Module>
-    <ModulePrefs title="Hello_SAP" />
-    <Content type="url" href="www.sap.com" />
+    <ModulePrefs title="Hello_Google" />
+    <Content type="url" href="www.google.com" />
 </Module>
