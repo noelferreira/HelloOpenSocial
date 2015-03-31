@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Module>
  <ModulePrefs title="SAP"></ModulePrefs>
- <Content type="url" href="www.sap.com" />
+ <Content type="url" href="http://www.google.com" view="authoring, consumption, mobile, preview, default">  
+</Content>  
 </Module>
 
