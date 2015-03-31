@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 
 <Module>
-	<ModulePrefs title="Hello Google" height="250"></ModulePrefs>
+	<ModulePrefs title="Hello Google"></ModulePrefs>
 	<Content type="url" href="http://www.google.com"></Content>
 </Module >
