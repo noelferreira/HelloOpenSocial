@@ -1,5 +1,19 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?> 
+<!-- Tutorial_08_Complete_Tutorial_Code_Example (XML, HTML, CSS, JavaScript) -->
 <Module>
- <ModulePrefs></ModulePrefs>
- <Content type="url" href="HelloOpenSocial.html" />
-</Module>
+	<ModulePrefs title="Tutorial_08_Complete_Tutorial_Code_Example" height="250">
+        <Require feature="wave"/>
+        <Require feature="dynamic-height"/>
+        <Require feature="minimessage"/>
+    </ModulePrefs>
+	<Content type="html">
+		<![CDATA[
+			
+			<div id="app">
+				<div id="header"><h2>OpenSocial Tutorial Tool</h2></div>
+				<div id="body"></div>
+				<div id="footer"></div>
+			</div>
+		]]>
+	</Content>
+</Module >
