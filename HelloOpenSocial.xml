@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
-<!-- Tutorial_08_Complete_Tutorial_Code_Example (XML, HTML, CSS, JavaScript) -->
+
 <Module>
-	<ModulePrefs title="Tutorial_08_Complete_Tutorial_Code_Example" height="250"></ModulePrefs>
-	<Content type="html">
-		<![CDATA[
-			
-			<div id="app">
-				<div id="header"><h2>OpenSocial Tutorial Tool</h2></div>
-				<div id="body"></div>
-				<div id="footer"></div>
-			</div>
-		]]>
-	</Content>
+	<ModulePrefs title="Hello Google" height="250"></ModulePrefs>
+	<Content type="url" href="http://www.google.com"></Content>
 </Module >
