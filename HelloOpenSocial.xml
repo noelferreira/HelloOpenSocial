@@ -1,23 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <!-- Hello Open Social -->
 <Module>
-    <ModulePrefs title="Hello_Open_Social">
-        <Require feature="wave"/>
-        <Require feature="dynamic-height"/>
-        <Require feature="minimessage"/>
-    </ModulePrefs>
-    <Content type="url" href="HelloOpenSocial.html">
-        <!--<![CDATA[-->
-
-        <!--    <script type="text/javascript src="hello.js"></script>-->
-            
-        <!--    <div id="app">-->
-        <!--        <div id="header"><h1>Hello, Open Social!</h1></div>-->
-        <!--        <div id="body">-->
-        <!--            <img src="https://www.yahoo.com/sy/nn/fp/rsz/033015/images/smush/oreilly_635x250_1427750515.jpg">-->
-        <!--        </div>-->
-        <!--        <div id="footer"></div>-->
-        <!--    </div>-->
-        <!--]]>-->
-    </Content>
+    <ModulePrefs title="Hello_Open_Social" />
+    <Content type="url" href="www.sap.com" />
 </Module>
