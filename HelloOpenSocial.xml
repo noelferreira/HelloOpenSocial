@@ -2,5 +2,5 @@
 <Module>
     <ModulePrefs title="Sample PubSub Publisher" height="250">
     </ModulePrefs>
-    <Content type="url" href="http://www.google.com" view="authoring, consumption, mobile, preview, default "/>
+    <Content type="url" href="HelloOpenSocial.html" view="authoring, consumption, mobile, preview, default "/>
 </Module>
