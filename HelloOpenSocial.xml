@@ -2,5 +2,5 @@
 <!-- Hello Open Social -->
 <Module>
     <ModulePrefs title="Hello_Google"></ModulePrefs>
-    <Content type="url" href="http://www.google.com"></Content>
+    <Content type="url" href="http://www.google.com" />
 </Module>
