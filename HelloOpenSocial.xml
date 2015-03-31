@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>  
+<?xml version="1.0" encoding="UTF-8" ?>
 <Module>
-    <ModulePrefs title="Sample PubSub Publisher" height="250">
-    </ModulePrefs>
-    <Content type="url" href="HelloOpenSocial.html" view="authoring, consumption, mobile, preview, default "/>
+ <ModulePrefs />
+ <Content type="url" href="HelloOpenSocial.html" />
 </Module>
