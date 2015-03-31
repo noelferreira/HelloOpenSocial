@@ -6,7 +6,7 @@
         <Require feature="dynamic-height"/>
         <Require feature="minimessage"/>
     </ModulePrefs>
-    <Content type="url" href="http://www.w3schools.com/">
+    <Content type="url" href="HelloOpenSocial.html">
         <!--<![CDATA[-->
 
         <!--    <script type="text/javascript src="hello.js"></script>-->
